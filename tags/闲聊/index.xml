@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>闲聊 on 弗拉</title>
+        <link>http://localhost:1313/fura08_blog/tags/%E9%97%B2%E8%81%8A/</link>
+        <description>Recent content in 闲聊 on 弗拉</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>弗拉</copyright>
+        <lastBuildDate>Thu, 31 Oct 2024 16:39:03 +0800</lastBuildDate><atom:link href="http://localhost:1313/fura08_blog/tags/%E9%97%B2%E8%81%8A/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>First Step：此博客的第一个内容</title>
+        <link>http://localhost:1313/fura08_blog/p/first-step%E6%AD%A4%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%86%85%E5%AE%B9/</link>
+        <pubDate>Thu, 31 Oct 2024 16:39:03 +0800</pubDate>
+        
+        <guid>http://localhost:1313/fura08_blog/p/first-step%E6%AD%A4%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%86%85%E5%AE%B9/</guid>
+        <description>&lt;p&gt;##👏恭喜我 成功创立了博客👏&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
