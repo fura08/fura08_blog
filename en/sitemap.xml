@@ -2,103 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fura08_blog/en/archives/</loc>
+    <loc>https://fura08.github.io/fura08_blog/en/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/fura08_blog/archives/"
+                href="https://fura08.github.io/fura08_blog/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fura08_blog/en/archives/"
+                href="https://fura08.github.io/fura08_blog/en/archives/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fura08_blog/en/</loc>
+    <loc>https://fura08.github.io/fura08_blog/en/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/fura08_blog/"
+                href="https://fura08.github.io/fura08_blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fura08_blog/en/"
+                href="https://fura08.github.io/fura08_blog/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fura08_blog/en/page/</loc>
+    <loc>https://fura08.github.io/fura08_blog/en/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/fura08_blog/page/"
+                href="https://fura08.github.io/fura08_blog/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fura08_blog/en/page/"
+                href="https://fura08.github.io/fura08_blog/en/page/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fura08_blog/en/categories/</loc>
+    <loc>https://fura08.github.io/fura08_blog/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/fura08_blog/categories/"
+                href="https://fura08.github.io/fura08_blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fura08_blog/en/categories/"
+                href="https://fura08.github.io/fura08_blog/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fura08_blog/en/links/</loc>
+    <loc>https://fura08.github.io/fura08_blog/en/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/fura08_blog/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/"
+                href="https://fura08.github.io/fura08_blog/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fura08_blog/en/links/"
+                href="https://fura08.github.io/fura08_blog/en/links/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fura08_blog/en/search/</loc>
+    <loc>https://fura08.github.io/fura08_blog/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/fura08_blog/search/"
+                href="https://fura08.github.io/fura08_blog/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fura08_blog/en/search/"
+                href="https://fura08.github.io/fura08_blog/en/search/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fura08_blog/en/tags/</loc>
+    <loc>https://fura08.github.io/fura08_blog/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/fura08_blog/tags/"
+                href="https://fura08.github.io/fura08_blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fura08_blog/en/tags/"
+                href="https://fura08.github.io/fura08_blog/en/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fura08_blog/en/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://fura08.github.io/fura08_blog/en/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/fura08_blog/%E5%85%B3%E4%BA%8E/"
+                href="https://fura08.github.io/fura08_blog/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/fura08_blog/en/%E5%85%B3%E4%BA%8E/"
+                href="https://fura08.github.io/fura08_blog/en/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>

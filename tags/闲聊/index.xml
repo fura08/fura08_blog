@@ -2,18 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>闲聊 on 弗拉</title>
-        <link>http://localhost:1313/fura08_blog/tags/%E9%97%B2%E8%81%8A/</link>
+        <link>https://fura08.github.io/fura08_blog/tags/%E9%97%B2%E8%81%8A/</link>
         <description>Recent content in 闲聊 on 弗拉</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>弗拉</copyright>
-        <lastBuildDate>Thu, 31 Oct 2024 16:39:03 +0800</lastBuildDate><atom:link href="http://localhost:1313/fura08_blog/tags/%E9%97%B2%E8%81%8A/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 31 Oct 2024 16:39:03 +0800</lastBuildDate><atom:link href="https://fura08.github.io/fura08_blog/tags/%E9%97%B2%E8%81%8A/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>First Step：此博客的第一个内容</title>
-        <link>http://localhost:1313/fura08_blog/p/first-step%E6%AD%A4%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%86%85%E5%AE%B9/</link>
+        <link>https://fura08.github.io/fura08_blog/p/first-step%E6%AD%A4%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%86%85%E5%AE%B9/</link>
         <pubDate>Thu, 31 Oct 2024 16:39:03 +0800</pubDate>
         
-        <guid>http://localhost:1313/fura08_blog/p/first-step%E6%AD%A4%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%86%85%E5%AE%B9/</guid>
-        <description>&lt;p&gt;##👏恭喜我 成功创立了博客👏&lt;/p&gt;
+        <guid>https://fura08.github.io/fura08_blog/p/first-step%E6%AD%A4%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%86%85%E5%AE%B9/</guid>
+        <description>&lt;h2 id=&#34;恭喜我-成功创立了博客&#34;&gt;👏恭喜我 成功创立了博客👏
+&lt;/h2&gt;&lt;p&gt;没错，这是在互联网上仅有的==只属于我一个人==的数据空间&lt;del&gt;虽然这个站点也只是托管在github上的就是了&lt;/del&gt;！！!&lt;br&gt;
+不管怎样，也许我会把一些想写下来的东西发到这里&lt;strong&gt;再见小米笔记，iqoo笔记😋&lt;/strong&gt;。&lt;br&gt;
+如果这个站点被人找到，我所写下的东西能让人感到开心或者引人深思，那最好；即使无人在意到这个博客，那么这里也能成为我留下痕迹的地方。&lt;br&gt;
+让我们开始吧！&lt;/p&gt;
 </description>
         </item>
         

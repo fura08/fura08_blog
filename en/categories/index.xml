@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Fura</title>
-        <link>http://localhost:1313/fura08_blog/en/categories/</link>
+        <link>https://fura08.github.io/fura08_blog/en/categories/</link>
         <description>Recent content in Categories on Fura</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <copyright>弗拉</copyright><atom:link href="http://localhost:1313/fura08_blog/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>弗拉</copyright><atom:link href="https://fura08.github.io/fura08_blog/en/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
