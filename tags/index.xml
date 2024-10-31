@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on 弗拉</title>
-        <link>https://fura08.github.io/fura08_blog/tags/</link>
+        <link>http://localhost:1313/fura08_blog/tags/</link>
         <description>Recent content in Tags on 弗拉</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>弗拉</copyright>
-        <lastBuildDate>Thu, 31 Oct 2024 16:39:03 +0800</lastBuildDate><atom:link href="https://fura08.github.io/fura08_blog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 31 Oct 2024 16:39:03 +0800</lastBuildDate><atom:link href="http://localhost:1313/fura08_blog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>闲聊</title>
-        <link>https://fura08.github.io/fura08_blog/tags/%E9%97%B2%E8%81%8A/</link>
+        <link>http://localhost:1313/fura08_blog/tags/%E9%97%B2%E8%81%8A/</link>
         <pubDate>Thu, 31 Oct 2024 16:39:03 +0800</pubDate>
         
-        <guid>https://fura08.github.io/fura08_blog/tags/%E9%97%B2%E8%81%8A/</guid>
+        <guid>http://localhost:1313/fura08_blog/tags/%E9%97%B2%E8%81%8A/</guid>
         <description></description>
         </item>
         

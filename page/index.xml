@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on 弗拉</title>
-        <link>https://fura08.github.io/fura08_blog/page/</link>
+        <link>http://localhost:1313/fura08_blog/page/</link>
         <description>Recent content in Pages on 弗拉</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>弗拉</copyright>
-        <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://fura08.github.io/fura08_blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fura08_blog/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>关于</title>
-        <link>https://fura08.github.io/fura08_blog/%E5%85%B3%E4%BA%8E/</link>
+        <link>http://localhost:1313/fura08_blog/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
         
-        <guid>https://fura08.github.io/fura08_blog/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>http://localhost:1313/fura08_blog/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;h4 id=&#34;简介&#34;&gt;简介
 &lt;/h4&gt;&lt;p&gt;弗拉，浙江/中国，现居杭州。游戏玩家，FPS重度爱好者；日摇、电子、中古民谣、pop听众；动漫爱好者；西幻和科幻作品爱好者；不混圈的MLP观众；5年守望先锋特工。&lt;/p&gt;
 &lt;h4 id=&#34;email&#34;&gt;Email
@@ -34,26 +34,26 @@
         </item>
         <item>
         <title>归档</title>
-        <link>https://fura08.github.io/fura08_blog/archives/</link>
+        <link>http://localhost:1313/fura08_blog/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://fura08.github.io/fura08_blog/archives/</guid>
+        <guid>http://localhost:1313/fura08_blog/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://fura08.github.io/fura08_blog/search/</link>
+        <link>http://localhost:1313/fura08_blog/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://fura08.github.io/fura08_blog/search/</guid>
+        <guid>http://localhost:1313/fura08_blog/search/</guid>
         <description></description>
         </item>
         <item>
         <title>友情链接</title>
-        <link>https://fura08.github.io/fura08_blog/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+        <link>http://localhost:1313/fura08_blog/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://fura08.github.io/fura08_blog/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
+        <guid>http://localhost:1313/fura08_blog/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;我的好友们👇&lt;/p&gt;
 </description>
         </item>
