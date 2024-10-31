@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://fura08.github.io/fura08_blog/zh-cn/sitemap.xml</loc>
+    <loc>http://localhost:1313/fura08_blog/zh-cn/sitemap.xml</loc>
     
       <lastmod>2024-10-30T00:00:00+00:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://fura08.github.io/fura08_blog/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/fura08_blog/en/sitemap.xml</loc>
     
       <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     
